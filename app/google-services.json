@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443583298667",
+    "firebase_url": "https://exameniiiparcial-5bccd-default-rtdb.firebaseio.com",
+    "project_id": "exameniiiparcial-5bccd",
+    "storage_bucket": "exameniiiparcial-5bccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443583298667:android:97bb8436c429f3fc20c52e",
+        "android_client_info": {
+          "package_name": "com.example.exameniiiparcial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443583298667-ngkli0d205kunscpetc4djb0mlsjafbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqMpAu8B1hSolqqoAJxP96Joi-5uYvxdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443583298667-ngkli0d205kunscpetc4djb0mlsjafbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
